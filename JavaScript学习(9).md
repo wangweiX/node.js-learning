@@ -1,17 +1,6 @@
----
-title: JavaScript学习(9) | Iterables
-tags:
-  - JavaScript
-categories: coding
-abbrlink: 39da151b
-date: 2018-01-09 22:43:00
----
-
 Iterator 接口的目的，就是为所有数据结构，提供了一种统一的访问机制，即`for...of`循环）。当使用`for...of`循环遍历某种数据结构时，该循环会自动去寻找 Iterator 接口。
 
 ES6 规定，一个数据结构只要具有`Symbol.iterator`属性，就可以认为是“可遍历的”（iterable）。
-
-<!--more-->
 
 ## Symbol.iterator
 

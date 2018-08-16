@@ -1,15 +1,4 @@
----
-title: JavaScript学习(1) | Variables
-tags:
-  - JavaScript
-categories: coding
-abbrlink: 92c3001f
-date: 2018-01-01 22:43:00
----
-
 今天我们学习一下在JavaScript中如何声明变量和常量，以及`var`、`let`、`const`的区别。
-
-<!--more-->
 
 ## 变量
 

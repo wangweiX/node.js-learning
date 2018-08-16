@@ -1,15 +1,4 @@
----
-title: JavaScript学习(7) | Data Type —— Array
-tags:
-  - JavaScript
-categories: coding
-abbrlink: a1e7623d
-date: 2018-01-07 22:43:00
----
-
 本篇文章重点介绍JavaScript中数组的特性。
-
-<!--more-->
 
 ## 声明
 

@@ -1,15 +1,4 @@
----
-title: JavaScript学习(13) | Property getters and setters
-tags:
-  - JavaScript
-categories: coding
-abbrlink: 57ede93d
-date: 2018-01-13 22:43:00
----
-
 JavaScript中有两种属性，一种是我们前面一直在介绍的数据属性（*data properties*），另外一种就是访问者属性（*accessor properties*）。
-
-<!--more-->
 
 ## Getters and setters
 

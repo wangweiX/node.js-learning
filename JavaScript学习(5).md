@@ -1,15 +1,4 @@
----
-title: JavaScript学习(5) | Objects
-tags:
-  - JavaScript
-categories: coding
-abbrlink: b5949fa3
-date: 2018-01-05 22:43:00
----
-
 [前面](https://wangwei.one/posts/f88dc8a9.html) 我们介绍了JavaScript中的6种原生的数据类型，
-
-<!--more-->
 
 ## 创建
 

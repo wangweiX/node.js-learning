@@ -1,15 +1,4 @@
----
-title: JavaScript学习(11) | Date and time
-tags:
-  - JavaScript
-categories: coding
-abbrlink: b4757a13
-date: 2018-01-11 22:43:00
----
-
 本篇文章来介绍一下JavaScript中的另一个内建对象—— [Date](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Date)，其用法与java中的 `Date` 颇为相似。
-
-<!--more-->
 
 ## 创建
 

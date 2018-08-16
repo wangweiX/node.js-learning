@@ -1,15 +1,4 @@
----
-title: JavaScript学习(2) | Operators
-tags:
-  - JavaScript
-categories: coding
-abbrlink: 622ddccb
-date: 2018-01-02 22:43:00
----
-
 JavaScript中的运算符与其他语言中的一样，学起来难度不大。
-
-<!--more-->
 
 ## 算术运算符
 

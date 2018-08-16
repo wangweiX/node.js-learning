@@ -1,15 +1,4 @@
----
-title: JavaScript学习(4) | Functions
-tags:
-  - JavaScript
-categories: coding
-abbrlink: 1c89568e
-date: 2018-01-04 22:43:00
----
-
 Javascript 是一种函数式编程语言，函数是完全类型化的对象，可以作为数据进行操作、扩展和传递。
-
-<!--more-->
 
 ## 概述
 

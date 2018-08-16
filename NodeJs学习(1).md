@@ -1,21 +1,8 @@
----
-title: NodeJs学习(1) | Build First Web Server
-tags:
-  - NodeJs
-categories: coding
-abbrlink: b1fcd8d6
-date: 2018-02-03 22:43:00
----
-
 本篇文章交易如何使用NodeJs搭建一个简单版的http server.
-
-<!--more-->
 
 ## 设备
 
 - MacOS High Sierra
-
-
 
 ## 环境部署
 

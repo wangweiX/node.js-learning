@@ -1,15 +1,4 @@
----
-title: JavaScript学习(3) | Primitive Data Type
-tags:
-  - JavaScript
-categories: coding
-abbrlink: f88dc8a9
-date: 2018-01-03 22:43:00
----
-
 JavaScript中有7种基本的数据类型：`undefined`、`null`、布尔值（Boolean）、字符串（String）、数值（Number）、对象（Object）、Symbol。本篇文章先来简要介绍一下他们的特性，后面的文章会分别对它们做详细的说明介绍。
-
-<!--more-->
 
 javascript 中的变量可以包含任何类型的数据。 一个变量可以在某一时刻是字符串类型，过会就可能变成数值类型，所以说javascript是一门动态类型语言。
 

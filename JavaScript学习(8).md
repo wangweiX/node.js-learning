@@ -1,15 +1,4 @@
----
-title: JavaScript学习(8) | Data type —— Map,WeakMap,Set,WeakSet
-tags:
-  - JavaScript
-categories: coding
-abbrlink: f4ac3ebf
-date: 2018-01-08 22:43:00
----
-
 本篇文章我们来学习一下 JavaScript 中的集合对象 `Map` 和 `Set` 。
-
-<!--more-->
 
 ## Map
 

@@ -1,15 +1,4 @@
----
-title: JavaScript学习(12) | Property flags and descriptors
-tags:
-  - JavaScript
-categories: coding
-abbrlink: c0e346ec
-date: 2018-01-12 22:43:00
----
-
 在 [前面](https://wangwei.one/posts/b5949fa3.html) 我们学习了JavaScript中如何创建对象以及对象属性的操作，本篇将深入学习 Object 属性的一些特性：**Enumerable**、**Writable**、**Configurable**.
-
-<!--more-->
 
 ## Property flags
 

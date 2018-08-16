@@ -1,15 +1,4 @@
----
-title: JavaScript学习(14) | Prototypal inheritance
-tags:
-  - JavaScript
-categories: coding
-abbrlink: 5368b95d
-date: 2018-01-15 22:43:00
----
-
 JavaScript中没有"子类"和"父类"的概念，也没有"类"（class）和"实例"（instance）的区分，全靠一种很奇特的"原型链"（prototype chain）模式，来实现继承。
-
-<!--more-->
 
 ## [[Prototype]]
 

@@ -1,15 +1,4 @@
----
-title: JavaScript学习(10) | JSON
-tags:
-  - JavaScript
-categories: coding
-abbrlink: d45f2631
-date: 2018-01-10 22:43:00
----
-
 本篇介绍一下JavaScript中有关JSON的用法。
-
-<!--more-->
 
 ## JSON.stringify
 
